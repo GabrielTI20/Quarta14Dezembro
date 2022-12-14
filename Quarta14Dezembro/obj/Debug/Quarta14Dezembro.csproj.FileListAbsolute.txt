@@ -1,0 +1,11 @@
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\bin\Debug\Quarta14Dezembro.exe.config
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\bin\Debug\Quarta14Dezembro.exe
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\bin\Debug\Quarta14Dezembro.pdb
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\obj\Debug\Quarta14Dezembro.csproj.AssemblyReference.cache
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\obj\Debug\Quarta14Dezembro.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\obj\Debug\Quarta14Dezembro.Form1.resources
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\obj\Debug\Quarta14Dezembro.Properties.Resources.resources
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\obj\Debug\Quarta14Dezembro.csproj.GenerateResource.cache
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\obj\Debug\Quarta14Dezembro.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\obj\Debug\Quarta14Dezembro.exe
+C:\Users\gabriel.oliveira32\source\repos\Quarta14Dezembro\obj\Debug\Quarta14Dezembro.pdb
